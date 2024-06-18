@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "EggGeneratorTelegram": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "environmentVariables": {
+        "EGGG_TOKEN": "6852308429:AAFF4hZvvbQj1_5xRth3C3H49WDk0LpBADo"
+      }
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json"
+}
